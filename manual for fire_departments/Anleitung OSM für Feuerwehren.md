@@ -1,62 +1,12 @@
-![](RackMultipart20220630-1-huuraj_html_7e8027bcc74e6acb.png) ![](RackMultipart20220630-1-huuraj_html_96ff0d8ebf54e422.png)
+![srz_logo.png](srz_logo.png)
 
-# Anleitung OpenStreetMap (OSM)
- für Feuerwehren
+![osm_logo.png](osm_logo.png)
+
+# Anleitung OpenStreetMap (OSM) für Feuerwehren
 
 ![](RackMultipart20220630-1-huuraj_html_1741f0ea7044713a.png)
 
-# Inhalt
-
-[Was ist OpenStreetMap (OSM)? 3](#_Toc48029400)
-
-[Warum sollte ich Daten in OpenStreetMap pflegen und was nütz mir dies in der Feuerwehr? 3](#_Toc48029401)
-
-[Kennst du OpenStreetMap? 3](#_Toc48029402)
-
-[Kartenausschnitt ändern 4](#_Toc48029403)
-
-[Such-Feld 4](#_Toc48029404)
-
-[Orientierung 5](#_Toc48029405)
-
-[Legende 5](#_Toc48029406)
-
-[Benutzerkonto 5](#_Toc48029407)
-
-[iD, der Web-Editor von OpenStreetMap 6](#_Toc48029408)
-
-[Rundgang 6](#_Toc48029409)
-
-[Und los geht&#39;s! 6](#_Toc48029410)
-
-[Einpflege eines Hydranten 6](#_Toc48029411)
-
-[Hydrant mit Daten (Tags) abfüllen 8](#_Toc48029412)
-
-[Tags 9](#_Toc48029413)
-
-[Change Sets 11](#_Toc48029414)
-
-[Was soll ich denn nun erfassen? 12](#_Toc48029415)
-
-[Tag Beispiele Feuerwehren 14](#_Toc48029416)
-
-[Grundsätze von OSM 16](#_Toc48029417)
-
-[Beste Verhaltensweisen 16](#_Toc48029418)
-
-[Wiki von OpenStreetMap 17](#_Toc48029419)
-
-[Informationen und Weiterführendes 17](#_Toc48029420)
-
-[Nachschlagewerke &amp; Referenzen 17](#_Toc48029421)
-
-[Lizenz 17](#_Toc48029422)
-
-[Kontakt 17](#_Toc48029423)
-
 # Was ist OpenStreetMap (OSM)?
-
 
 OpenStreetMap (OSM) ist ein freies Projekt, das frei nutzbare Geodaten sammelt, strukturiert und für die Nutzung durch jeden in einer Datenbank vorhält (Open Data). Diese Daten stehen unter einer freien Lizenz, der Open Database License. Kern des Projekts ist also eine offen zugängliche Datenbank aller beigetragenen Geoinformationen.
 
@@ -66,21 +16,15 @@ Weiterführende Infos: [https://www.openstreetmap.org/about](https://www.openstr
 
 ## Warum sollte ich Daten in OpenStreetMap pflegen und was nütz mir dies in der Feuerwehr?
 
-Einerseits kannst du damit eigene Kartenlösungen erstellen, andererseits wäre es das Ziel, in der Einsatzleitzentrale (ELZ) diese Daten suchen zu können und in einem weiteren Schritt diese Daten auf den Einsatzausdruck (GRISU, Mail) zu bringen.
- Suche dir begeisterte Leute, die gerne mithelfen die weltgrösste, offene Karte mit ihrem lokalen Wissen anzureichern und die Welt der Rettung zu verbessern.
+Einerseits kannst du damit eigene Kartenlösungen erstellen, andererseits wäre es das Ziel, in der Einsatzleitzentrale (ELZ) diese Daten suchen zu können und in einem weiteren Schritt diese Daten auf den Einsatzausdruck (GRISU, Mail) zu bringen. Suche dir begeisterte Leute, die gerne mithelfen die weltgrösste, offene Karte mit ihrem lokalen Wissen anzureichern und die Welt der Rettung zu verbessern.
 
 # Kennst du OpenStreetMap?
 
 Gehe mit deinem Web-Browser auf openstreetmap.org. (Der Adresszeilen-Inhalt ändert dabei automatisch zu etwas wie https://www.openstreetmap.org/#map=8/46.825/8.224.)
- Du kommst auf eine Website, deren Hauptteil eine Landkarte ist. Erkennst du den Karten-
- Ausschnitt? Welches Gebiet ist abgebildet?
- Falls du zum ersten Mal auf openstreetmap.org bist, erscheint oben links eine Willkommens-Nachricht. Falls die Nachricht bereits weggeklickt wurde, ist hier nochmals ihr Inhalt:
+Du kommst auf eine Website, deren Hauptteil eine Landkarte ist. Erkennst du den Karten-Ausschnitt? Welches Gebiet ist abgebildet?
+Falls du zum ersten Mal auf openstreetmap.org bist, erscheint oben links eine Willkommens-Nachricht. Falls die Nachricht bereits weggeklickt wurde, ist hier nochmals ihr Inhalt:
 
-_Willkommen bei OpenStreetMap! OpenStreetMap ist eine Karte der Welt,_
-
-_erstellt von Menschen wie dir und frei verwendbar unter einer offenen_
-
-_Lizenz._
+*Willkommen bei OpenStreetMap! OpenStreetMap ist eine Karte der Welt, erstellt von Menschen wie dir und frei verwendbar unter einer offenen Lizenz.*
 
 Lies die Nachricht durch und schliesse sie dann, um mehr von der Landkarte zu sehen.
 
@@ -93,9 +37,9 @@ Am rechten Seitenrand sind einige dunkelgraue Knöpfe mit weissen Symbolen. Mit 
 ## Such-Feld
 
 Oben links findest du ein Text-Eingabefeld für Such-Anfragen. Hier können Orte, Adressen, Sehenswürdigkeiten und Namen von Läden, Hotels, Restaurants und vielem mehr eingegeben werden.
- Das Suchfeld achtet auf Rechtschreibung und Schreibweise. Wenn das, was du suchst, nicht gefunden wird, heisst das entweder, dass es in der Datenbank noch nicht existiert, oder dass es anders geschrieben wird als das, was du eingegeben hast. Ändere einfach die Abfrage etwas und versuch es erneut!
- Versuche, dein Depot zu finden. Dazu kannst du das Suchfeld verwenden, oder dich einfach auf der Karte bewegen, wie du es im Abschnitt oben gelernt hast. Falls OpenStreetMap dein Depot nicht über den Namen oder die Adresse findet, kannst du auch beides kombinieren: Suche zuerst nach dem Ort oder Quartier, zoome und verschiebe den Karten-Ausschnitt dorthin, wo dein Depot sein sollte.
- OpenStreetMap funktioniert nicht nur in der Schweiz, sondern auch weit über die Landesgrenzen hinweg. Du kannst auch Orte wie München, New York, Tokio und Kalkutta finden. Wichtige Städte sind dabei unter verschiedensprachigen Namen zu finden, du kannst also anstatt &quot;Tokio&quot; auch die englische Schreibweise &quot;Tokyo&quot; oder die örtliche Bezeichnung verwenden.
+Das Suchfeld achtet auf Rechtschreibung und Schreibweise. Wenn das, was du suchst, nicht gefunden wird, heisst das entweder, dass es in der Datenbank noch nicht existiert, oder dass es anders geschrieben wird als das, was du eingegeben hast. Ändere einfach die Abfrage etwas und versuch es erneut!
+Versuche, dein Depot zu finden. Dazu kannst du das Suchfeld verwenden, oder dich einfach auf der Karte bewegen, wie du es im Abschnitt oben gelernt hast. Falls OpenStreetMap dein Depot nicht über den Namen oder die Adresse findet, kannst du auch beides kombinieren: Suche zuerst nach dem Ort oder Quartier, zoome und verschiebe den Karten-Ausschnitt dorthin, wo dein Depot sein sollte.
+OpenStreetMap funktioniert nicht nur in der Schweiz, sondern auch weit über die Landesgrenzen hinweg. Du kannst auch Orte wie München, New York, Tokio und Kalkutta finden. Wichtige Städte sind dabei unter verschiedensprachigen Namen zu finden, du kannst also anstatt &quot;Tokio&quot; auch die englische Schreibweise &quot;Tokyo&quot; oder die örtliche Bezeichnung verwenden.
 
 ## Orientierung
 
@@ -127,7 +71,7 @@ Um den iD-Editor kennenzulernen, solltest du zuerst dessen eingebauten &quot;Run
 
 Knopfsymbol: ![](RackMultipart20220630-1-huuraj_html_801306b9e724e096.png)
 
-## Und los geht&#39;s!
+## Und los geht's!
 
 Alle Änderungen, die du während des &quot;Rundgangs&quot; gemacht hast, waren nur zur Übung und wurden nicht wirklich in OpenStreetMap eingetragen. Fehlt auf der OpenStreetMap-Karte etwas, oder ist etwas gar falsch? Vielleicht fällt dir an deinem Wohnort oder in der Gegend deines Schulhauses etwas auf, das verbessert oder ergänzt werden kann. Gibt es z.B. ein Bänkli, einen Brunnen oder einen Abfalleimer, der noch fehlt?
 
@@ -313,9 +257,8 @@ Dieses Werk von Christian Nüssli ist lizenziert unter einer [Creative Commons N
 
 ## Kontakt
 
-Schutz und Rettung Gebäudeversicherung Kanton Zürich
-**Christian Nüssli**** Vasco Avanzini**
- Applikationsverantwortlicher ELZ Bereichsleiter Grundlagen &amp;
- 044 411 22 85 Entwicklung Feuerwehr
-[christian.nuessli@zuerich.ch](mailto:christian.nuessli@zuerich.ch) 044 308 22 32
-[vasco.avanzini@gvz.ch](mailto:vasco.avanzini@gvz.ch)
+**Christian Nüssli**
+Schutz und Rettung Zürich 
+Applikationsverantwortlicher ELZ
+044 411 22 85
+[christian.nuessli@zuerich.ch](mailto:christian.nuessli@zuerich.ch)
