@@ -1,10 +1,6 @@
-![srz_logo.png](srz_logo.png)
-
-![osm_logo.png](osm_logo.png)
-
 # Anleitung OpenStreetMap (OSM) für Feuerwehren
 
-![](RackMultipart20220630-1-huuraj_html_1741f0ea7044713a.png)
+<img src="osm_logo.png" height="450px">
 
 # Was ist OpenStreetMap (OSM)?
 
@@ -30,7 +26,8 @@ Lies die Nachricht durch und schliesse sie dann, um mehr von der Landkarte zu se
 
 ## Kartenausschnitt ändern
 
-![](RackMultipart20220630-1-huuraj_html_a4c1d788c0e7c8f0.gif)
+<img src="map1.png" height="450px">
+
 
 Am rechten Seitenrand sind einige dunkelgraue Knöpfe mit weissen Symbolen. Mit diesen kannst du die Zoomstufen regeln. Falls du eine Maus mit Scroll-Rad hast, halte den Mauszeiger über den Bereich der Website mit der Landkarte und drehe das Rad (langsam) nach vorn oder hinten. Natürlich lässt sich der Karten-Ausschnitt auch verschieben, ohne ihn zu vergrössern oder zu verkleinern. Dazu musst du einfach in die Karte klicken, die Maus gedrückt lassen und schieben.
 
@@ -53,7 +50,7 @@ Um die Bedeutung verschiedener Linien-Farben und -Arten auf der Karte zu sehen, 
 
 Um in OSM Daten bearbeiten zu können, braucht es ein Benutzerkonto. Dieses kann man direkt auf der Hauptmaske anlegen. Klicke dazu auf openstreetmap.org auf « **Registrieren** ».
 
-![Shape1](RackMultipart20220630-1-huuraj_html_8221949df8cfe12a.gif) ![](RackMultipart20220630-1-huuraj_html_a28e662654796dd0.png)
+<img src="map2.png" height="450px">
 
 Danach musst du deine E-Mail-Adresse, einen Benutzername und ein Passwort vergeben. Vergiss nicht, deine E-Mail-Adresse mit dem versendeten E-Mail zu bestätigen.
 
@@ -69,7 +66,7 @@ Es gibt verschiedene Editoren, mit denen OpenStreetMap bearbeitet werden kann. W
 
 Um den iD-Editor kennenzulernen, solltest du zuerst dessen eingebauten &quot;Rundgang&quot; durcharbeiten. Dazu drückst du auf den &quot;Bearbeiten&quot;-Knopf oben links. Falls dir danach eine Willkommens-Nachricht angezeigt wird, drückst du auf &quot;Rundgang starten&quot;. Andernfalls drückst du auf den «?-Knopf» (auf der rechten Seite) und startest von dort aus den Rundgang.
 
-Knopfsymbol: ![](RackMultipart20220630-1-huuraj_html_801306b9e724e096.png)
+Knopfsymbol: <img src="symbol1.png" height="35px">
 
 ## Und los geht's!
 
@@ -84,15 +81,15 @@ Wir üben dies nun für ein Praxisbeispiel der Feuerwehr, die Einpflege eines ne
 Wenn wir einen neuen Hydranten erfassen möchten, starten wir wieder im Bearbeitungsmodus des iD Editors.
  Wir zoomen nun auf die Stelle, an der wir den Hydranten einpflegen möchten. Für einen Hydranten setzen wir einen Punkt.
 
-![](RackMultipart20220630-1-huuraj_html_988580e2eaa5126.png)
+<img src="symbol2.png" height="100px">
 
 Setze nun den Punkt auf die exakte Stelle, wo sich der Hydrant befindet. Suche im Suchfeld auf der linken Seite nach Hydrant.
 
-![](RackMultipart20220630-1-huuraj_html_956186d47d59570d.png)
+<img src="map3.png" height="450px">
 
 Suche im Suchfeld auf der linken Seite nach Hydrant.
 
-![](RackMultipart20220630-1-huuraj_html_789a2c337baeaa6f.png)
+<img src="map4.png" height="450px">
 
 ## Hydrant mit Daten (Tags) abfüllen
 
@@ -100,7 +97,7 @@ Der Hydrant ist nun virtuell gesetzt. Nun kannst du ihn mit Daten füllen. Diese
 
 Der Editor schlägt dir in diesem Fall folgende Felder vor:
 
-![](RackMultipart20220630-1-huuraj_html_c2cbb39d5556af7c.png)
+<img src="map5.png" height="450px">
 
 - Referenzcode: Nummer des Hydranten
 - Form: Typ des Hydranten (z.B Überflurhydrant)
@@ -112,7 +109,7 @@ Diese Tags schlägt dir der Editor für jeden Hydranten vor. Solltest du die Inf
 
 - Du kannst im Drop-Down prüfen, was dir der Editor sonst noch vorschlägt:
 
-![](RackMultipart20220630-1-huuraj_html_2bbf473acf2992d9.png)
+<img src="map6.png" height="450px">
 
 - Du kannst auf der [Wiki Seite](#_Wiki_von_OpenStreetMap) dieses Tags nachschauen, was du noch kombinieren kannst: [https://wiki.openstreetmap.org/wiki/DE:Tag:emergency=fire\_hydrant](https://wiki.openstreetmap.org/wiki/DE:Tag:emergency=fire_hydrant)
 
@@ -122,7 +119,7 @@ Um euch die Tags zu veranschaulichen, setzen wir nun im Beispiel unseres Hydrant
 
 Um das Beispiel zu vervollständigen, wurde der Hydrant nun mal mit Beispiel-Daten befüllt:
 
-![](RackMultipart20220630-1-huuraj_html_5c930094c1a88abf.png)
+<img src="map7.png" height="450px">
 
 Schauen wir uns die Daten im Detail an:
 
@@ -151,11 +148,11 @@ Wir laden also nun unseren Change Set hoch, dazu müssen wir einen Kommentar und
  Als Änderungskommentar empfiehlt es sich einzutragen, was du gemacht hast. Die Sprache, die du wählst, ist ganz dir überlassen. Sofern du Englisch beherrschst, empfehle ich in dieser Sprache den Kommentar zu hinterlassen, damit ihn auch internationale Mapper verstehen.
  Die Quellen können je nach Änderung variieren. Stelle aber sicher, dass du die [Grundsätze von OSM](#_Grunds%C3%A4tze_von_OSM) einhältst. In deinem Fall wirst du die meiste Zeit «local knowledge» also lokales Wissen angeben können. Einerseits hast du vielleicht Pläne zur Hand oder du kannst dich vor den Hydranten stellen und alle Angaben auch selbst verifizieren.
 
-![](RackMultipart20220630-1-huuraj_html_e291c742bc49b5e9.png)
+<img src="map8.png" height="450px">
 
 Sobald deine Änderung hochgeladen wurde, erhältst du die Bestätigung und die Änderungsdatensatznummer.
 
-![](RackMultipart20220630-1-huuraj_html_a6551b054fb80b55.png)
+<img src="symbol3.png" height="250px">
 
 Somit ist deine Bearbeitung beendet und die Daten der Welt zugänglich. Vielen Dank!
 
@@ -168,11 +165,11 @@ Was du nun erfasst, ist ganz dir überlassen. Du kannst alles was einsatzrelevan
 
 **Beispiele für solche Einträge**
 
-![](RackMultipart20220630-1-huuraj_html_976cf6b822d5037c.png)
+<img src="map9.png" height="450px">
 
 Der Name der Feuerstelle ist offiziell Schlangenbrunnen, der umgangssprachliche Name ist aber Schlangenbrünneli. Wenn man dies nun als loc\_name einträgt in OSMN, wird die ELZ danach suchen können.
 
-![](RackMultipart20220630-1-huuraj_html_79a97ee47bcb9832.png)
+<img src="map10.png" height="450px">
 
 Die Grillhäuser in Meilen heissen nicht offiziell so, sondern haben richtige Hausadressen. Die meisten Anwohner sprechen aber von der Villa Durchzug, ein Grillplatz der Gemeinde.
 
@@ -187,7 +184,7 @@ Anbei ein paar Beispiele von Feuerwehren, welche bereits etwas in OSM umgesetzt 
 - Evakuierungspunkte
 - Photovoltaikanlagen
 
-![](RackMultipart20220630-1-huuraj_html_5a99b23d136afad4.png)
+<img src="map11.png" height="450px">
 
 Weitere Beispiele können gerne direkt besprochen werden. [Melde dich doch bei uns.](#_Kontakt)
 
@@ -195,7 +192,7 @@ Weitere Beispiele können gerne direkt besprochen werden. [Melde dich doch bei u
 
 Die Einsatzleitzentrale hat die Möglichkeit Defibrillatoren auf der Karte anzuzeigen und somit dem Hilfesuchenden direkt den Weg zu einem Defi zu zeigen.
 
-![](RackMultipart20220630-1-huuraj_html_b9f942f27b229d0b.png)
+<img src="map12.png" height="450px">
 
 Auch hier sind das lokale Wissen und die Vernetzung der Feuerwehr zu lokalen Behörden und Vereinen viel wert. Solltet ihr einen Defi einpflegen wollen, empfiehlt es sich, die folgenden Daten und Tags sauber abzufüllen.
 
