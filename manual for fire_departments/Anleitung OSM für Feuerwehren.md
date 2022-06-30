@@ -10,7 +10,7 @@ Aus diesen Daten können sowohl freie als auch kommerzielle Landkarten erstellt 
 
 Weiterführende Infos: [https://www.openstreetmap.org/about](https://www.openstreetmap.org/about)
 
-## Warum sollte ich Daten in OpenStreetMap pflegen und was nütz mir dies in der Feuerwehr?
+## Warum sollte ich Daten in OpenStreetMap pflegen und was nützt mir dies in der Feuerwehr?
 
 Einerseits kannst du damit eigene Kartenlösungen erstellen, andererseits wäre es das Ziel, in der Einsatzleitzentrale (ELZ) diese Daten suchen zu können und in einem weiteren Schritt diese Daten auf den Einsatzausdruck (GRISU, Mail) zu bringen. Suche dir begeisterte Leute, die gerne mithelfen die weltgrösste, offene Karte mit ihrem lokalen Wissen anzureichern und die Welt der Rettung zu verbessern.
 
