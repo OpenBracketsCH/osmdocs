@@ -218,7 +218,7 @@ In OSM gibt es grundsätzliche «Regeln», die man zu beachten hat.
 
 - **Ignoriere nicht die Ratschläge anderer Mapper**. Viele Mapper wollen dir, vor allem am Anfang helfen und dir Ratschläge geben. Nimm diese dankend an und stelle Fragen. Sollte ein anderer Mapper aber unanständig werden, ignoriere diesen, das kommt leider manchmal vor.
 - **Betreibe kein Vandalismus**. Die Daten andere Mapper mutwillig zu zerstören gehört nicht in die OSM Welt. Verbessere andere Einträge oder korrigiere sie, wenn sie falsch sind. Löschst du aber einfach Daten, die deiner Meinung nach nicht hingehören, machst du dich schnell unbeliebt. Auch solche Spielereien gehören nicht auf die Karte:
- ![](RackMultipart20220630-1-huuraj_html_8c0087d3dea323d9.png)
+<img src="map13.png" height="450px">
 
 # Wiki von OpenStreetMap
 
