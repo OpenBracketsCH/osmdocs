@@ -28,7 +28,6 @@ Lies die Nachricht durch und schliesse sie dann, um mehr von der Landkarte zu se
 
 <img src="map1.png" height="450px">
 
-
 Am rechten Seitenrand sind einige dunkelgraue Knöpfe mit weissen Symbolen. Mit diesen kannst du die Zoomstufen regeln. Falls du eine Maus mit Scroll-Rad hast, halte den Mauszeiger über den Bereich der Website mit der Landkarte und drehe das Rad (langsam) nach vorn oder hinten. Natürlich lässt sich der Karten-Ausschnitt auch verschieben, ohne ihn zu vergrössern oder zu verkleinern. Dazu musst du einfach in die Karte klicken, die Maus gedrückt lassen und schieben.
 
 ## Such-Feld
@@ -36,7 +35,7 @@ Am rechten Seitenrand sind einige dunkelgraue Knöpfe mit weissen Symbolen. Mit 
 Oben links findest du ein Text-Eingabefeld für Such-Anfragen. Hier können Orte, Adressen, Sehenswürdigkeiten und Namen von Läden, Hotels, Restaurants und vielem mehr eingegeben werden.
 Das Suchfeld achtet auf Rechtschreibung und Schreibweise. Wenn das, was du suchst, nicht gefunden wird, heisst das entweder, dass es in der Datenbank noch nicht existiert, oder dass es anders geschrieben wird als das, was du eingegeben hast. Ändere einfach die Abfrage etwas und versuch es erneut!
 Versuche, dein Depot zu finden. Dazu kannst du das Suchfeld verwenden, oder dich einfach auf der Karte bewegen, wie du es im Abschnitt oben gelernt hast. Falls OpenStreetMap dein Depot nicht über den Namen oder die Adresse findet, kannst du auch beides kombinieren: Suche zuerst nach dem Ort oder Quartier, zoome und verschiebe den Karten-Ausschnitt dorthin, wo dein Depot sein sollte.
-OpenStreetMap funktioniert nicht nur in der Schweiz, sondern auch weit über die Landesgrenzen hinweg. Du kannst auch Orte wie München, New York, Tokio und Kalkutta finden. Wichtige Städte sind dabei unter verschiedensprachigen Namen zu finden, du kannst also anstatt &quot;Tokio&quot; auch die englische Schreibweise &quot;Tokyo&quot; oder die örtliche Bezeichnung verwenden.
+OpenStreetMap funktioniert nicht nur in der Schweiz, sondern auch weit über die Landesgrenzen hinweg. Du kannst auch Orte wie München, New York, Tokio und Kalkutta finden. Wichtige Städte sind dabei unter verschiedensprachigen Namen zu finden, du kannst also anstatt "Tokio" auch die englische Schreibweise "Tokyo" oder die örtliche Bezeichnung verwenden.
 
 ## Orientierung
 
@@ -248,7 +247,7 @@ How to map: [https://wiki.openstreetmap.org/wiki/DE:How\_to\_map\_a](https://wik
 
 ## Lizenz
 
-[![](RackMultipart20220630-1-huuraj_html_be68ba1ce70cb597.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+<img src="symbol4.png" height="25px">
 
 Dieses Werk von Christian Nüssli ist lizenziert unter einer [Creative Commons Namensnennung - Weitergabe unter gleichen Bedingungen 4.0 International Lizenz](http://creativecommons.org/licenses/by-sa/4.0/). Somit kann dieses Werk kopiert und unter Nennung des Autors verändert und vervielfältigt werden.
 
