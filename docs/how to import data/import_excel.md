@@ -6,8 +6,6 @@ Bereite dein Excel so vor dass du die Datenfelder bereits schon so hast, wie du 
 
 **Wichtig** Die Koordinaten müssen wie folgt benannt werden: xcoord, ycoord
 
-
-
 ## Konvertierung
 
 * Speichere die erhaltene, bearbeitete Datei als CSV.
