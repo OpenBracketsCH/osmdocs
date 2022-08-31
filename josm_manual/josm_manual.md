@@ -1,6 +1,6 @@
 # JOSM Kurzdokumentation
 
-![Josm Logo](img/josm_logo.png)
+![JOSM Logo](img/josm_logo.png)
 
 #### Zweck dieses Dokuments
 
